@@ -1,2 +1,2 @@
-# Installer le role pour wordpress
-- src: https://github.com/diranetafen/ansible-role-containerized-wordpress.git
+# Installer le role pour apache
+- src: https://github.com/adjimi-lionelle/mini-projet-ansible.git

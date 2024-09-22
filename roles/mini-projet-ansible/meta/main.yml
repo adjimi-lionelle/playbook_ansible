@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: Your Name
+  description: Role to install and configure Apache web server.
+  company: Your Company
+  license: GPLv3
+  min_ansible_version: 2.0
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: CentOS
+      versions:
+        - all
+    - name: RedHat
+      versions:
+        - all
+
+dependencies: []
